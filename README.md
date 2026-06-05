@@ -55,7 +55,7 @@ Percentage: 100.00%
 
 ## Why I Built This
 
-I wanted to create a beginner-friendly project that was more interesting than a calculator or number guessing game. This helped me practice Python basics while building something interactive.
+I wanted to create a beginner-friendly project that was more interesting than a calculator or number guessing game. This helped me practice Python basics while building something interactive and creative.
 
 ## Future Ideas
 
