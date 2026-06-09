@@ -1,4 +1,4 @@
-# 📚 Flashcard Quiz App
+# Flashcard Quiz App
 
 A small Python project I made to practice working with dictionaries, loops, functions, and user input. The app asks random questions from a set of flashcards and keeps track of your score.
 
