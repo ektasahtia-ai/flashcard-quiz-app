@@ -2,7 +2,7 @@
 
 A small Python project I made to practice working with dictionaries, loops, functions, and user input. The app asks random questions from a set of flashcards and keeps track of your score.
 
-It's simple, but it was a fun way to combine basic Python concepts into one project.
+It is simple, but it was a fun way to combine basic Python concepts into one project.
 
 ## Features
 
