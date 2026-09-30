@@ -4,7 +4,7 @@ A small Python project that I made to practice working with dictionaries, loops,
 
 It is simple, but it was a fun way to combine basic Python concepts all into a single project.
 
-## Features
+## Featuress
 
 * Randomized flashcard questions
 * Instant feedback after every answer
